@@ -32,7 +32,7 @@ import hashlib
 # Driver path of the chrome browser executable on my computer, to use this program on another machine, Selenium must be installed,
 # and a chrome driver for the user's chrome version.
 # The driver path is the file path of where the executable is located on the user's specific machine
-DRIVER_PATH='/Users/lukefetchko/Desktop/chromedriver'
+DRIVER_PATH=''
 # Function definition of fetch_image_urls, takes a query string, a max links to fetch integer, a webdriver from Selenium, and a sleep between interactions integer as parameters
 # Returns a set of image urls found
 # Code contributed from Fabian Bolser at https://towardsdatascience.com/image-scraping-with-python-a96feda8af2d
