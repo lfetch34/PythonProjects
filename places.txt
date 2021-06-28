@@ -1,0 +1,122 @@
+Liberty Tap Room & Grill	941 S Main St	restaurant	34.843140	-82.408694
+Delaney's Irish Pub	117 W Main St	restaurant	34.949434	-81.932073
+FR8yard	125 E Main St	restaurant, bar	34.949570	-81.930932
+Dave and Buster's	1025 Woodruff Rd Suite P101	arcade, resturant	34.833839	-82.303990
+Frankie's Fun Park	45 Park Woodruff Dr	arcade	34.821359	-82.296067
+Topgolf	201 Clifton Ct	golf, sports bar	34.856945	-82.261568
+Lieu's Asian Bistro	103 E Beacon Dr	restaurant	34.858560	-82.265042
+Falls Park on the Reedy	601 S Main St	park	34.844720	-82.401151
+Reys	20 N Main St	restaurant, bar	34.851328	-82.398565
+Smoke On the Water	1 Augusta St #202	restaurant	34.843916	-82.404364
+Roper Mountain Science Center	402 Roper Mountain Rd	museum	34.8459	-82.3077
+Studio 54	3715 E North St	night_club	34.8453	-82.4017
+Marble Slab Creamery	108 N Main St	ice_cream	34.7795	-82.3100
+Spill The Beans	531 S Main St, Greenville	cafe,restaurant	34.8453	-82.4017
+Dave & Busters	1025 Woodruff Rd	bar,arcade	34.8334	-82.3087
+RJ Rockers	226 W Main St	restaurant,cafe,bar	34.9488	-81.9359
+Spartan 16	855 Spartan Blvd	movie_theater	34.9449	-82.0008
+Paradise Lanes	469 E Blackstock Rd	bowling_alley	34.9134	-81.9837
+Chapman Cultural Center	200 E St John St	art,music,museum	34.9530	-81.9294
+YMCA	266 S. Pine Street	spa,gym	34.9483	-81.9165
+Spice and Tea Exchange	135 W Main St	tea, spices	34.949262	-81.932682
+Wasabi	1529 John B White Sr Blvd C	Japanese, restaurant	34.922416	-81.973793
+Escape Room Adventures & Virtual Reality	1224 John B White Sr Blvd	escape_room, arcade, virtual_reality	34.928003	-81.964767
+Menkoi	241B N Main St	ramen, restaurant	34.853535	-82.397816
+WestGate Mall	205 W Blackstock Rd	mall	34.939689	-81.994788
+NCG Spartanburg Cinema	1985 E Main St	movie_theater	34.968483	-81.886553
+South Carolina Department of Motor Vehicles	8794 Fairforest Rd B	local_government_office, DMV	34.973302	-81.997789
+QuickTrip	7114 Lone Oak Rd	gas_station, fast_food, QT	34.985238	-81.972321
+Costco Wholesale	211 W Blackstock Rd	supermarket, restaurant, gas_station	34.940084	-81.997484
+Ground Zero Live Music Venue	3052 Howard St	bar, local_music	34.970322	-81.964061
+John C. Stockwell Administration Building	800 University Way	human_resources, it_help_desk	34.994660	-81.970446
+Fuji Boiling Springs	Boiling Springs, SC	restaurant, food	35.0521	-81.9870
+Top Golf Greenville	201 Clifton Ct, Greenville	entertainment, golf	34.8571	-82.2614
+Spill the Beans Coffee Shop	174 E Main St, Spartanburg	coffee, hangout	34.9503	-81.9293
+Kanpai of Tokyo	2300 Winchester Pl, Spartanburg	Japanese food, restaurant	34.9368	-81.9823
+Cracker Barrel Old Country Store	9021 Fairforest Rd, Spartanburg	store, restaurant	34.9673	-82.0008
+Miami Grill	250 Hearon Cir, Spartanburg	drive-through, restaurant	34.9831	-81.9721
+Cook Out	1800 Boiling Springs Rd, Boiling Springs, SC	restaurant, hangout	35.0395	-81.9749
+Sonic Drive-In	3121 Boiling Springs Rd, Boiling Springs	restaurant, drive-through	35.0397	-81.9757
+Krispy Kreme	354 N Church St, Spartanburg	snack, drive-through	34.9551	-81.9361
+Wild Wing Cafe	111 W Main St, Spartanburg	dine-in, restaurant	34.9493	-81.9319
+Greenville-Spartanburg International Airport	GSP Dr	GSP	34.8954	-82.2172
+Fluor Field	945 S Main St	Greenville Drive	34.9234	-82.2341
+Valley Falls Apartments	510 Sparta Ln	Student Apartments	34.9989	-81.9791
+Sassafras Southern Bistro	103 N Main St,	Bistro	34.8519	-82.3988
+Kitchen Sync	1609 Laurens Rd,	Dinner	34.8410	-82.3578
+Falls Park on the Reedy	601 S Main St,	Park	34.8450	-82.4020
+The Kava Konnection	1540 Wade Hampton Blvd	Coffee	34.8730	-82.3689
+Tupelo Honey	1 N Main St	Lunch	34.8511	-82.3998
+Kilwins Chocolates, Fudge & Ice Cream	220 N Main St	Desert	34.8532	-82.3970
+Pour Taproom	7 Falls Park Dr	Bar	34.8454	-82.4024
+Homewood Suites	102 Carolina Point Pkwy	hotel	34.8257396	-82.3059782
+Wild Wing Cafe	1025 Woodruff Rd	restaurant	34.8331822	-82.3057327
+Waffle House	11 East Stone Ave	restaurant	34.8614523	-82.3931317
+Marathon	1609 W Blue Ridge Dr	gas	34.8711003	-82.4294020
+Texas roadhouse	3140 Wade Hampton Blvd	restaurant	34.9105010	-82.3242571
+Walgreens	2700 Wade Hampton Blvd	pharmacy	34.8974699	-82.3392446
+Hyatt Place	40 West Orchard Park	hotel	34.8575788	-82.3389008
+McDonald's	2443 Laurens Rd	restaurant	34.8283871	-82.3466121
+Country Inn	2756 Laurens Rd	hotel	34.815471	-82.3403243
+QuikTrip	548 N Pleasanburg Dr	gas	34.8557347	-82.355801
+Barn's and noble spartanburg	1489 Wo Ezell Blvd	books/coffee	34.9361	-81.9838
+Haywood Mall	700 Haywood Rd	shopping/food	34.8496	-82.3332
+Spill the bean	174 E Main St	coffee/study	34.9503	-81.9293	
+Greenville County Museum of Art (GCMA)	420 College Street	museum/art	34.8564	-82.4007
+Roper Mountain Science Center	402 Roper Mountain Road	science/planetarium	34.8399	-82.3091
+Artisphere Greenville	B, 101 Augusta St	art/enterntainment	34.8433	-82.4053
+Greenville Zoo	150 Cleveland Park Drive	animals/gift store	34.8466	-82.3880
+Grill Marks	209 S. Main Street	food/shakes	34.8481	-82.3999
+BMW Zentrum	1400 Highway 101 S	cars/museum	34.8901	-82.1769
+Hatcher Garden and Woodland Preserve	820 John B White Sr Blvd	nature/park	34.9301	-81.9576
+Croft State Park	450 Croft State Park Rd	hiking	34.8650	-81.8397
+Roper Mountain Science Center	402 Roper Mountain Rd	planetarium,	4.8398	-82.3090
+Cabela's	Haywood Mall	Sporting goods shop,	34.8344	-82.3068
+Lake Conestee Nature Preserve	601 Fork Shoals Rd	waliking trails,	34.7813	-82.3538
+BI-LO	100 N Town Dr	Grocery store,	34.9830	-81.9680
+QuikTrip	Hearon Circle	Gas Station,	34.9853	-81.9722
+Paradise Lanes	469 E Blackstock Rd	Bowling,	34.9133	-81.9837
+WestGate Mall	205 W Blackstock Rd	Shoping,	34.9401	-81.9939
+Regal Spartan	855 Spartan Blvd	Movies,	34.9450	-82.0004
+Jack in the Box	1500 W O. Ezell Blvd	Fast Food	34.9373	-81.9873
+Bud's Archery Shop	328 Industrial Rd, summerville	convenience stores	-33.03222222 	-80.20916667
+McAlister's Deli	400-A Azalea Square Blvd, Summerville	restaurant	-33.0395	-80.1611
+Perfectly Frank's	1700 Central Ave, Summerville	restaurant	-33.0101	-80.2428
+Doty Park	320 N Laurel St, Summerville	Park	-33.0274	-80.1762
+Guerin's Pharmacy	140 S Main St, Summerville	Drugstore 	-33.019304	-80.176215
+Middleton Place	4300 Ashley River Rd, Charleston	museum 	-32.8999	-80.1382
+Mother Emanuel AME Church	110 Calhoun St, Charleston	church	-32.7875	-79.9331
+South Carolina State House	1100 Gervais St,	local- goverment-office	-34.0003	-81.0331
+Williams Brice Stadium	1125 George Rogers Blvd, columbia	sports stadium	-33.9731	-81.0192
+Riverbank Zoo	500 Wildlife Pkwy, columbia	zoo 	-34.0100	-81.0729
+Heartland Animal Hospital	2880 Boiling Springs Rd	veterinary_care	35.0374875	-81.974927
+WestGate Mall	205 W Blackstock Rd	shopping_mall, department_store	35.0438041	-81.8788548
+RJ Rockers Brewing Company & Restaurant	226-A W Main St	bar, restaurant, brewery	34.948626	-81.935707
+Craft Axe Throwing	226 W Main St Suite D	entertainment	34.9489149	-81.9380767
+Falls Park on the Reedy	601 S Main St	park	34.8444847	-82.4033042
+Dave and Buster's	1025 Woodruff Rd Suite P101	arcade, entertainment	34.83378	-82.3061807
+LeMans Hi-Speed Indoor Karting	961 Berry Shoals Rd	entertainment, go-kart track	34.8737303	-82.1437166
+Drayton Mills Marketplace	1802 Drayton Rd	store, hair_care, restaurant	34.9702874	-81.9086234
+Mon Amie CafÃ©	2601 E Main St #21	restaurant, french_restaurant	34.9788267	-81.8738046
+Fr8yard	125 E Main St	bar	34.9494974	-81.9331306
+NCG Spartanburg Cinema 	1985 E Main St	movie_theater	34.9685507	-81.8885333
+3's Greenville Golf & Grill	61 Villa Rd.	Golf, restaurant	34.8601	-82.3476
+Craft Axe Throwing	1320 Hampton Ave #5a	amusement	34.8569	-82.4077
+Cleveland Park	141 N Cleveland Park Dr.	park	34.9655	-81.9517
+The Tangled Web	418 W Blackstock Rd.	Comic Books, Tabletop Games	34.9423	-81.9915
+Topgolf	201 Clifton Ct.	Golf, Bar	34.8571	-82.2614
+NCG Spartanburg	1985 East Main Street	Movie Theater	34.9688	-81.8866
+FR8yard	125 E Main St	restaurant	35.1409	-81.8595
+Hub City Scoops	158 E Main St.	Ice Cream	35.1407	-81.8599
+Breakout Games	614 N Main St.	Escape room	33.4103	-91.0624
+Hatcher Garden and Woodland Preserve	823 John B White Sr Blvd	Botanical Garden, Walking Trail	34.9296	-81.9583
+Miyabi Japanese Streak House	625 Congaree Rd	restaurant	34.8462	-82.3241
+Frankie's Fun Park	45 Park Woodruff Dr	amusement_park	34.8218	-82.2949
+Greenville Zoo	150 Cleveland Park Dr	zoo, park	34.8466	-82.3880
+Fuddruckers	1147 Woodruff Rd	restaurant	34.8249	-82.2930
+Fluor Field	945 S Main St	stadium	33.4059	-91.0541
+Haywood Mall	700 Haywood Rd	shopping_mall	34.8496	-82.3332
+McAlister's Deli	1401-A Woodruff Rd	restaurant	34.8230	-82.2892
+Plato's Closet	621 Haywood Rd	clothing_store	34.8476	-82.3395
+Hughes Main Library	25 Heritage Green PL	library	34.8563	-82.4020
+Bon Secours Wellness Arena	650 N Academy St	stadium, tourist_attraction	34.8573	-82.3969
